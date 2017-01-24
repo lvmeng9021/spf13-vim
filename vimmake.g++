@@ -1,0 +1,4 @@
+#! /bin/sh
+echo "$VIM_FILEPATH"
+g++ "$VIM_FILEPATH" -o "$VIM_FILEDIR/$VIM_FILENOEXT"
+
