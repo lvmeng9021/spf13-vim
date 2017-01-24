@@ -1,0 +1,5 @@
+let g:airline_theme="luna"
+let g:airline_powerline_fonts=1
+" cscope 搜索结果在 quickfix 中显示
+set cscopequickfix=s-,c-,d-,i-,t-,e-,a-
+
